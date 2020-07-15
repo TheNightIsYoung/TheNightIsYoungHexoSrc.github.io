@@ -1,27 +1,147 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>TheNightIsYoung</title>
+  <title>Waldeinsamkeit</title>
   
-  <subtitle>Waldeinsamkeit</subtitle>
+  <subtitle>The Night Is Young</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://orangeshare.cn/"/>
-  <updated>2020-02-20T15:56:10.913Z</updated>
-  <id>http://orangeshare.cn/</id>
+  <link href="https://www.orangeshare.cn/"/>
+  <updated>2020-03-09T17:43:36.756Z</updated>
+  <id>https://www.orangeshare.cn/</id>
   
   <author>
-    <name>TheNightIsYoung</name>
+    <name>Waldeinsamkeit</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://orangeshare.cn/object-object/hello-world/"/>
-    <id>http://orangeshare.cn/object-object/hello-world/</id>
-    <published>2017-12-17T16:00:30.000Z</published>
-    <updated>2020-02-20T15:56:10.913Z</updated>
+    <title>一文学会使用 U 盘启动盘快速安装纯净 Windows 全版本系统</title>
+    <link href="https://www.orangeshare.cn/os/yi-wen-xue-hui-shi-yong-u-pan-qi-dong-pan-kuai-su-an-zhuang-windows-quan-ban-ben-xi-tong/"/>
+    <id>https://www.orangeshare.cn/os/yi-wen-xue-hui-shi-yong-u-pan-qi-dong-pan-kuai-su-an-zhuang-windows-quan-ban-ben-xi-tong/</id>
+    <published>2018-02-01T00:00:30.000Z</published>
+    <updated>2020-03-09T17:43:36.756Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;1-Introduction&quot;&gt;&lt;a href=&quot;#1-Introduction&quot; class=&quot;headerlink&quot; title=&quot;1. Introduction&quot;&gt;&lt;/a&gt;1.
+        
+      
+    
+    </summary>
+    
+    
+      <category term="OS" scheme="https://www.orangeshare.cn/categories/OS/"/>
+    
+    
+      <category term="OS" scheme="https://www.orangeshare.cn/tags/OS/"/>
+    
+      <category term="Windows" scheme="https://www.orangeshare.cn/tags/Windows/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>图床工具的使用---PicGo</title>
+    <link href="https://www.orangeshare.cn/hexo/tu-chuang-gong-ju-de-shi-yong-picgo/"/>
+    <id>https://www.orangeshare.cn/hexo/tu-chuang-gong-ju-de-shi-yong-picgo/</id>
+    <published>2018-01-19T02:00:30.000Z</published>
+    <updated>2020-03-08T15:13:09.355Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;引子：&lt;/p&gt;
+&lt;p&gt;所谓图床工具，就是自动把本地图片转换成链接，以精简用户繁杂的图床上传、下载过程的一款工具，网络上有很多图床工具，就目前使用种类而言，PicGo 算得上一款比较优秀的图床工具。&lt;/p&gt;
+&lt;p&gt;PicGo 可以支持&lt;s&gt;微博&lt;/s&gt;，七牛云，腾讯云
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Hexo" scheme="https://www.orangeshare.cn/categories/Hexo/"/>
+    
+    
+      <category term="Hexo" scheme="https://www.orangeshare.cn/tags/Hexo/"/>
+    
+      <category term="Picture bed" scheme="https://www.orangeshare.cn/tags/Picture-bed/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Github+jsDelivr+PicGo 稳定快速、高效免费的图床解决方案</title>
+    <link href="https://www.orangeshare.cn/hexo/wen-ding-kuai-su-gao-xiao-mian-fei-de-tu-chuang-fang-an-github-jsdelivr-picgo/"/>
+    <id>https://www.orangeshare.cn/hexo/wen-ding-kuai-su-gao-xiao-mian-fei-de-tu-chuang-fang-an-github-jsdelivr-picgo/</id>
+    <published>2018-01-18T22:00:30.000Z</published>
+    <updated>2020-03-09T13:58:51.774Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;更多 Hexo 博客框架内容，请关注博主 Hexo 博文系列：&lt;/p&gt;
+&lt;p&gt;===================================================&lt;/p&gt;
+&lt;h2 id=&quot;Introduction&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Hexo" scheme="https://www.orangeshare.cn/categories/Hexo/"/>
+    
+    
+      <category term="Hexo" scheme="https://www.orangeshare.cn/tags/Hexo/"/>
+    
+      <category term="Picture bed" scheme="https://www.orangeshare.cn/tags/Picture-bed/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>基于图床的博客图片存储解决方案</title>
+    <link href="https://www.orangeshare.cn/hexo/ji-yu-tu-chuang-de-bo-ke-tu-pian-cun-chu-jie-jue-fang-an/"/>
+    <id>https://www.orangeshare.cn/hexo/ji-yu-tu-chuang-de-bo-ke-tu-pian-cun-chu-jie-jue-fang-an/</id>
+    <published>2018-01-17T22:00:30.000Z</published>
+    <updated>2020-03-08T17:24:12.808Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;1-Pictures-use-in-hexo&quot;&gt;&lt;a href=&quot;#1-Pictures-use-in-hexo&quot; class=&quot;headerlink&quot; title=&quot;1. Pictures use in hexo&quot;&gt;&lt;/a&gt;1. Pictures use in
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Hexo" scheme="https://www.orangeshare.cn/categories/Hexo/"/>
+    
+    
+      <category term="Hexo" scheme="https://www.orangeshare.cn/tags/Hexo/"/>
+    
+      <category term="Picture bed" scheme="https://www.orangeshare.cn/tags/Picture-bed/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello, Hexo Matery World</title>
+    <link href="https://www.orangeshare.cn/hexo/hello-world/"/>
+    <id>https://www.orangeshare.cn/hexo/hello-world/</id>
+    <published>2018-01-17T16:12:30.000Z</published>
+    <updated>2020-03-08T15:15:01.880Z</updated>
     
     <summary type="html">
     
@@ -36,8 +156,73 @@
     </summary>
     
     
-      <category term="Markdown" scheme="http://orangeshare.cn/categories/Markdown/"/>
+      <category term="Hexo" scheme="https://www.orangeshare.cn/categories/Hexo/"/>
     
+    
+      <category term="Hexo" scheme="https://www.orangeshare.cn/tags/Hexo/"/>
+    
+      <category term="Markdown" scheme="https://www.orangeshare.cn/tags/Markdown/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo 博客主题之 Matery 使用</title>
+    <link href="https://www.orangeshare.cn/hexo/hexo-bo-ke-zhu-ti-zhi-matery-shi-yong/"/>
+    <id>https://www.orangeshare.cn/hexo/hexo-bo-ke-zhu-ti-zhi-matery-shi-yong/</id>
+    <published>2018-01-17T16:09:30.000Z</published>
+    <updated>2020-03-08T14:49:47.522Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;hexo-theme-matery 是一个采用 &lt;code&gt;Material Design&lt;/code&gt; 和响应式设计的 Hexo 博客主题。本文可以看做是 Matery 主题的 README 文档，以供初次使用 Matery 主题的 Hexoer 们，&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Hexo" scheme="https://www.orangeshare.cn/categories/Hexo/"/>
+    
+    
+      <category term="Hexo" scheme="https://www.orangeshare.cn/tags/Hexo/"/>
+    
+      <category term="Markdown" scheme="https://www.orangeshare.cn/tags/Markdown/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>基于 Hexo 轻量级框架的博客搭建</title>
+    <link href="https://www.orangeshare.cn/hexo/ji-yu-hexo-qing-liang-ji-kuang-jia-de-bo-ke-da-jian-md/"/>
+    <id>https://www.orangeshare.cn/hexo/ji-yu-hexo-qing-liang-ji-kuang-jia-de-bo-ke-da-jian-md/</id>
+    <published>2017-09-10T05:43:07.000Z</published>
+    <updated>2020-07-15T13:45:55.376Z</updated>
+    
+    <summary type="html">
+    
+      &lt;center&gt;抛开喧嚣，卸下繁华，只为一纸清凉，遇到更好的自己…&lt;/center&gt;
+
+&lt;p&gt;&lt;strong&gt;读前需知：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在开始 &lt;strong&gt;Hexo&lt;/strong&gt; 框架博客搭建之前，首先说明本文所作目的：一方面本文作为基于 Hexo Frame 搭建个人博客过程记录，方便日后回顾使用；另一方面由于在搭建过程中受益于博客上记录过 Hexo 环境搭建的前辈们，故作此以分享给更多的 Hexo 新手小白们。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Hexo" scheme="https://www.orangeshare.cn/categories/Hexo/"/>
+    
+    
+      <category term="Hexo" scheme="https://www.orangeshare.cn/tags/Hexo/"/>
+    
+      <category term="Github" scheme="https://www.orangeshare.cn/tags/Github/"/>
+    
+      <category term="Coding" scheme="https://www.orangeshare.cn/tags/Coding/"/>
+    
+      <category term="Github·Page" scheme="https://www.orangeshare.cn/tags/Github%C2%B7Page/"/>
+    
+      <category term="Coding·Page" scheme="https://www.orangeshare.cn/tags/Coding%C2%B7Page/"/>
     
   </entry>
   
